@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hoepiegho.mattethecat.com/sitemap.xml
